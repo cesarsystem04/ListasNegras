@@ -1,0 +1,10 @@
+C:\Proyectos Visual Studio\ListaNegra\ListaNegra\bin\Debug\ListaNegra.exe.config
+C:\Proyectos Visual Studio\ListaNegra\ListaNegra\bin\Debug\ListaNegra.exe
+C:\Proyectos Visual Studio\ListaNegra\ListaNegra\bin\Debug\ListaNegra.pdb
+C:\Proyectos Visual Studio\ListaNegra\ListaNegra\obj\Debug\ListaNegraBatch.csprojAssemblyReference.cache
+C:\Proyectos Visual Studio\ListaNegra\ListaNegra\obj\Debug\ListaNegraBatch.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\ListaNegra\ListaNegra\obj\Debug\ListaNegra.exe
+C:\Proyectos Visual Studio\ListaNegra\ListaNegra\obj\Debug\ListaNegra.pdb
+C:\Proyectos Visual Studio\ListaNegra\ListaNegra\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Proyectos Visual Studio\ListaNegra\ListaNegra\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Proyectos Visual Studio\ListaNegra\ListaNegra\obj\Debug\ListaNegraBatch.csproj.CopyComplete
